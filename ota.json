@@ -2,14 +2,6 @@
     "id":null,
     "result":[
         {
-            "filename":"sudamod-71.1-gemini-201701271319_201701290946.zip",
-            "api_level":"25",
-            "md5sum":"6e09bc22521ba90d27736685d11e14d0",
-            "url":"https://git.oschina.net/ghbhaha/ota/raw/gemini/sudamod-71.1-gemini-201701271319_201701290946.zip",
-            "timestamp":"1485654454",
-            "channel":"nightly"
-        },
-        {
             "filename":"sudamod-71.1-ota-201701270946_201701271319-gemini.zip",
             "api_level":"25",
             "md5sum":"eda43eea2e8eba673a45dfebd71a42bc",
